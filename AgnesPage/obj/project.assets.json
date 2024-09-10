@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\AgnesPage\\AgnesPage.csproj",
+      "projectUniqueName": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\AgnesPage.csproj",
       "projectName": "AgnesPage",
-      "projectPath": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\AgnesPage\\AgnesPage.csproj",
+      "projectPath": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\AgnesPage.csproj",
       "packagesPath": "C:\\Users\\agnes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\AgnesPage\\obj\\",
+      "outputPath": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\agnes\\AppData\\Roaming\\NuGet\\NuGet.Config",
