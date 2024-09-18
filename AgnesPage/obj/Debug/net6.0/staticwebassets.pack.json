@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\wwwroot\\images\\hs.jpg",
+      "PackagePath": "staticwebassets\\images\\hs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\wwwroot\\images\\salad1.jpg",
+      "PackagePath": "staticwebassets\\images\\salad1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\wwwroot\\images\\salad2.jpg",
+      "PackagePath": "staticwebassets\\images\\salad2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\wwwroot\\images\\selfie.jpg",
+      "PackagePath": "staticwebassets\\images\\selfie.jpg"
+    },
+    {
       "Id": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

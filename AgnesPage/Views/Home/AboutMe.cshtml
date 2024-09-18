@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "About Agnes";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Agnes Hyunsoo Rhee</h1>
+   <div>
+    @foreach (var imagePath in Model)
+    {
+        <div>
+            <img src="@Url.Content(imagePath)" alt="Image" style="width: 200px; height: auto; margin: 10px;" />
+        </div>
+    }
+</div>
+</div>
