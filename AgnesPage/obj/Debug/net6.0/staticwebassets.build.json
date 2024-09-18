@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "srCruHyNCXzw76FAkyVUL7d/UtEzeSPWhR8BIjgKNHw=",
+  "Hash": "epOht+bDvWr5rdtrKz+QXa7UOWAdp11zXHkA8Mz1jXE=",
   "Source": "AgnesPage",
   "BasePath": "_content/AgnesPage",
   "Mode": "Default",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\wwwroot\\images\\hs.jpg",
+      "Identity": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\wwwroot\\images\\a.jpg",
       "SourceId": "AgnesPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\wwwroot\\",
       "BasePath": "_content/AgnesPage",
-      "RelativePath": "images/hs.jpg",
+      "RelativePath": "images/a.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\hs.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\a.jpg"
     },
     {
-      "Identity": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\wwwroot\\images\\salad1.jpg",
+      "Identity": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\wwwroot\\images\\b.jpg",
       "SourceId": "AgnesPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\wwwroot\\",
       "BasePath": "_content/AgnesPage",
-      "RelativePath": "images/salad1.jpg",
+      "RelativePath": "images/b.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\salad1.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\b.jpg"
     },
     {
-      "Identity": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\wwwroot\\images\\salad2.jpg",
+      "Identity": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\wwwroot\\images\\c.jpg",
       "SourceId": "AgnesPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\wwwroot\\",
       "BasePath": "_content/AgnesPage",
-      "RelativePath": "images/salad2.jpg",
+      "RelativePath": "images/c.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\salad2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\c.jpg"
     },
     {
-      "Identity": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\wwwroot\\images\\selfie.jpg",
+      "Identity": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\wwwroot\\images\\d.jpg",
       "SourceId": "AgnesPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\wwwroot\\",
       "BasePath": "_content/AgnesPage",
-      "RelativePath": "images/selfie.jpg",
+      "RelativePath": "images/d.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,7 +150,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\selfie.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\d.jpg"
     },
     {
       "Identity": "C:\\Users\\agnes\\source\\repos\\helpful-bubble\\AgnesPage\\wwwroot\\js\\site.js",
